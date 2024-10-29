@@ -3,10 +3,9 @@
 Analista de Datos y profesional en IT con más de 13 años de experiencia en monitoreo de redes e infraestructura. Me apasiona la Inteligencia de Negocios y el Análisis de Datos, utilizando herramientas como **Power BI**, **SQL**, y **Python** para transformar datos en insights estratégicos. Además, tengo un correcto manejo de sql, mysql, google cloud, javascript. 
 
 ## Tecnologías y Herramientas
-- **BI y Visualización**: Power BI
+- **Visualización**: Power BI
 - **Análisis de Datos**: Python, Pandas, NumPy
 - **Bases de Datos**: SQL, MySQL, Google Cloud.
-- **Monitoreo de Redes**: SolarWinds, Grafana, PRGT, entre otras.
 
 - ## Proyectos Destacados
    **Análisis de Datos Aerolineas de los Zares** (https://github.com/emanuelAchar/Airlines-Proyecto-data) El proyecto se centra en la aviación comercial. El sector enfrenta desafíos que incluyen fluctuaciones en la demanda 
