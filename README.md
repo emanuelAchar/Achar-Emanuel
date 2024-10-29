@@ -1,6 +1,6 @@
 # Hola, soy Emanuel Achar 👋
 
-Analista de Datos y profesional en IT con más de 13 años de experiencia en monitoreo de redes e infraestructura. Me apasiona la Inteligencia de Negocios y el Análisis de Datos, utilizando herramientas como **Power BI**, **SQL**, y **Python** para transformar datos en insights estratégicos.
+Analista de Datos y profesional en IT con más de 13 años de experiencia en monitoreo de redes e infraestructura. Me apasiona la Inteligencia de Negocios y el Análisis de Datos, utilizando herramientas como **Power BI**, **SQL**, y **Python** para transformar datos en insights estratégicos. Además, tengo un correcto manejo de sql, mysql, google cloud, javascript. 
 
 ## Tecnologías y Herramientas
 - **BI y Visualización**: Power BI
